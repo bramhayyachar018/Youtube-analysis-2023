@@ -1,0 +1,55 @@
+h1{
+    
+color: orange;
+background-color:lavender;
+color: rgb(200, 30, 130);
+color: #ff0f10;
+color: rgb(250, 180, 0);
+color: #000;
+text-align: center;
+border: solid;
+width: 80%;
+font-weight: 800;
+text-decoration: underline;
+letter-spacing: 1px;
+font-family: 'Times New Roman', Times, serif;
+font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p{
+    color: red;
+    /* background-color: black; */
+    text-align: justify;
+    font-weight: lighter;
+    /* text-decoration: black underline; */
+    line-height: 1.15;
+    letter-spacing: 0.5px;
+
+}
+
+button{
+    color: gold;
+    background-color: black;
+    color: white;
+    background-color:teal;
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(243, 241, 238);
+}
+
+h2{
+    font-family: league spartan;
+    color: #ffa511;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5x;
+    text-decoration:teal double underline;
+    text-transform: uppercase;
+}
